@@ -21,6 +21,18 @@ html, body {
 	float: left;
 	width: 60%;	
 }
+#modelPhoto {
+	float: right;
+	padding: 5px;
+}
+#teamPhoto {
+	float: right;
+	padding: 5px;
+}
+#missionStatement {
+	text-align: center;
+	font-style: italic;
+}
 #footer {
 	padding-top: 30px;
 	clear: both;
