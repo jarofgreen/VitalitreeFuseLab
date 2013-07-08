@@ -11,6 +11,7 @@ html, body {
 #menu {
 	float: left;
 	width: 30%;
+	font-family: arial;
 }
 #menu ul li {
 	list-style-type: none;
